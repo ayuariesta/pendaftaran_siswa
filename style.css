@@ -1,0 +1,24 @@
+.form-wrapper {
+    display: flex;
+    align-items: center;
+    margin-bottom: 12px; }
+
+.form-wrapper label {
+    width: 15%; }
+
+.form-control {
+    width: 84%;
+}
+
+.btn-primary{
+    margin-left: 190px;
+}
+
+.btn{
+    margin-top: 20px;
+}
+
+.tbody{
+    align-items: center;
+}
+
